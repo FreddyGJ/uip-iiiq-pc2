@@ -1,0 +1,7 @@
+Nombre: Freddy
+Velocidades totales: 3
+#1: Velocidad -> 30, Multa-> 0
+#2: Velocidad -> 50, Multa-> 0
+#3: Velocidad -> 600, Multa-> 150
+Multa total: 150
+Velocidad total:680
